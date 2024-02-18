@@ -56,3 +56,7 @@ If this happens you can shut down Traktor Pro 3 and use copy and paste the backe
 Then start up Traktor Pro 3 and if backed up files are installed corrently you will be back to the orignal S8 UI.
 
 If you belive this is an issue with the code post an issue on this repo.
+
+### Logged out of streaming services on Traktor Pro 3
+
+When changing these files you can be logged out of your stremming services to fix this you just have to log back in on Traktor Pro 3.
