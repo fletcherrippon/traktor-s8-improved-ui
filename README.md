@@ -1,12 +1,17 @@
 # Improved UI for S8 Traktor Pro 3
 
 **IMPORTANT**
+
 Backup folder the "qml" from Traktor Pro 3 application files into the root folder of this project indside the ".backup" folder.
 
 - Mac: /Applications/Native Instruments/Traktor Pro 3/Traktor.app/Contents/Resources/qml
 - Windows: C:\Program Files\Native Instruments\Traktor Pro 3\Resources64\qml
 
 ![S8](https://github.com/fletcherrippon/traktor-s8-improved-ui/blob/master/docs/S8.png)
+
+## About this Repo
+
+This is a repo to improve the UI of the Native Instruments Traktor Kontrol S8 Controller this should also work for Native Instruments Traktor Kontrol S5 Controller & Native Instruments Traktor Kontrol D2 but has not been tested on these controllers so make sure to save a backup when installing with these devices.
 
 ## How to install improved S8 UI
 
