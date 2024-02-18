@@ -25,7 +25,7 @@ this is a very important step incase something goes wrong you can copy the backu
 - Mac: `/Applications/Native Instruments/Traktor Pro 3/Traktor.app/Contents/Resources/qml`
 - Windows: `C:\Program Files\Native Instruments\Traktor Pro 3\Resources64\qml`
 
-### Copy Files
+### Copy Files to Traktor Pro 3 Application Files
 
 Copy the folders from the "./spec/qml" folder and past them into the S8 Traktor Pro 3 qml folder.
 
