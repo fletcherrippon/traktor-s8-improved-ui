@@ -7,7 +7,7 @@ Backup folder the "qml" from Traktor Pro 3 application files into the root folde
 - Mac: `/Applications/Native Instruments/Traktor Pro 3/Traktor.app/Contents/Resources/qml`
 - Windows: `C:\Program Files\Native Instruments\Traktor Pro 3\Resources64\qml`
 
-**_This Project is currently in Development and may not be ready for use_**
+**_This project is currently in development and may not be ready for use_**
 
 ![S8](https://github.com/fletcherrippon/traktor-s8-improved-ui/blob/master/docs/S8.png)
 
